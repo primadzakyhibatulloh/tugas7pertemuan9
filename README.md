@@ -224,6 +224,10 @@ Universitas Jenderal Soedirman
 
 ---
 
-# 📄 Lisensi
-Project ini bersifat edukasi dan bebas digunakan untuk pembelajaran.
+<img width="367" height="436" alt="login-page" src="https://github.com/user-attachments/assets/6b7899d0-c0de-452d-87fc-b6d5898ad065" />
 
+<img width="367" height="437" alt="dashboard-page" src="https://github.com/user-attachments/assets/62b7d84a-764a-43ef-a1d2-a97b66465865" />
+
+<img width="371" height="437" alt="profil-page" src="https://github.com/user-attachments/assets/7b730c6b-94de-402e-8e6f-21723c742cba" />
+
+<img width="368" height="432" alt="sidebar" src="https://github.com/user-attachments/assets/f9b18fd9-03cf-4346-88cc-d4bd201016a8" />
