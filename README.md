@@ -5,20 +5,8 @@ Didesain untuk kebutuhan pembelajaran mobile development.
 ---
 
 ## 📁 Struktur Proyek
-lib/
-├── models/
-│ ├── motor.dart
-│ └── user.dart
-├── services/
-│ └── auth_service.dart
-├── screens/
-│ ├── check_auth_screen.dart
-│ ├── login_screen.dart
-│ ├── dashboard_screen.dart
-│ └── profile_screen.dart
-├── widgets/
-│ └── app_drawer.dart
-└── main.dart
+<img width="351" height="300" alt="image" src="https://github.com/user-attachments/assets/448363ad-8324-46fc-b498-3e3a91e99172" />
+
 
 
 ---
